@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: ac0a43899b429a942ad26ced13818475
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8189650667827876979
+    second: Fox Running_0
+  - first:
+      213: -5447189599148108117
+    second: Fox Running_1
+  - first:
+      213: 2411212283926625588
+    second: Fox Running_2
+  - first:
+      213: 4183376534722103051
+    second: Fox Running_3
+  - first:
+      213: 1878933213425258762
+    second: Fox Running_4
+  - first:
+      213: -2102101676120516931
+    second: Fox Running_5
+  - first:
+      213: -1248797723352466313
+    second: Fox Running_6
+  - first:
+      213: -9066932197608732810
+    second: Fox Running_7
+  - first:
+      213: -555244608545739551
+    second: Fox Running_8
+  - first:
+      213: 3294793243138151688
+    second: Fox Running_9
+  - first:
+      213: -7722825254393066200
+    second: Fox Running_10
+  - first:
+      213: -4355890550225760130
+    second: Fox Running_11
+  - first:
+      213: 2261607149427751238
+    second: FoxSpriteSheet_0
+  - first:
+      213: -3916247367637363828
+    second: FoxSpriteSheet_1
+  - first:
+      213: 6106812400229231221
+    second: FoxSpriteSheet_2
+  - first:
+      213: 8488962962405788664
+    second: FoxSpriteSheet_3
+  - first:
+      213: 3927429522736666497
+    second: FoxSpriteSheet_4
+  - first:
+      213: -2440746699718744943
+    second: FoxSpriteSheet_5
+  - first:
+      213: 6055199909779419019
+    second: FoxSpriteSheet_6
+  - first:
+      213: 7082620961218418965
+    second: FoxSpriteSheet_7
+  - first:
+      213: 2189877334087193471
+    second: FoxSpriteSheet_8
+  - first:
+      213: 3256672057586365254
+    second: FoxSpriteSheet_9
+  - first:
+      213: 233521086569349528
+    second: FoxSpriteSheet_10
+  - first:
+      213: 3368470625129183428
+    second: FoxSpriteSheet_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 133
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FoxSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 152
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ff1b48b7d26f10800000000000000
+      internalID: 2261607149427751238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 152
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839a6fa4c1b6a9c0800000000000000
+      internalID: -3916247367637363828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 151
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2d91d581cfb450800000000000000
+      internalID: 6106812400229231221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 151
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb05ad76dadec570800000000000000
+      internalID: 8488962962405788664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 151
+        width: 131
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d91fa758018630800000000000000
+      internalID: 3927429522736666497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 149
+        width: 131
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ae88eec9b02ed0800000000000000
+      internalID: -2440746699718744943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 129
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f21627c34680450800000000000000
+      internalID: 6055199909779419019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 13
+        width: 129
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519d8282d368a4260800000000000000
+      internalID: 7082620961218418965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 14
+        width: 127
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7352f735d1046e10800000000000000
+      internalID: 2189877334087193471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 13
+        width: 129
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64330665bf5023d20800000000000000
+      internalID: 3256672057586365254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 11
+        width: 133
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918784e032ad3300800000000000000
+      internalID: 233521086569349528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FoxSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 12
+        width: 134
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8b927cf263fbe20800000000000000
+      internalID: 3368470625129183428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

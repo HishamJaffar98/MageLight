@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 048f5b188448c514482cbb74459f6100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8898071222588902783
+    second: Jabba Walking_0
+  - first:
+      213: 8298084095177405490
+    second: Jabba Walking_1
+  - first:
+      213: -7963612708707547389
+    second: Jabba Walking_2
+  - first:
+      213: -7610526614286523004
+    second: Jabba Walking_3
+  - first:
+      213: 4702092881318482462
+    second: Jabba Walking_4
+  - first:
+      213: 2356062786193476842
+    second: Jabba Walking_5
+  - first:
+      213: 2079731245301866431
+    second: Jabba Walking_6
+  - first:
+      213: 984936302769476046
+    second: Jabba Walking_7
+  - first:
+      213: -2578093862068254103
+    second: Jabba Walking_8
+  - first:
+      213: 1230655984377252044
+    second: Jabba Walking_9
+  - first:
+      213: -8146032167771056869
+    second: Jabba Walking_10
+  - first:
+      213: -1807585389387087921
+    second: Jabba Walking_11
+  - first:
+      213: 4611551433992501798
+    second: Jabba Walking_12
+  - first:
+      213: 8814104414533706894
+    second: Jabba Walking_13
+  - first:
+      213: -2106685000583540032
+    second: Jabba Walking_14
+  - first:
+      213: 3861603834416381160
+    second: JabaSpriteSheet_0
+  - first:
+      213: -7180993075705390727
+    second: JabaSpriteSheet_1
+  - first:
+      213: -2166235512016049815
+    second: JabaSpriteSheet_2
+  - first:
+      213: 6292297344697386589
+    second: JabaSpriteSheet_3
+  - first:
+      213: 2857958331419285784
+    second: JabaSpriteSheet_4
+  - first:
+      213: -7994628020119725482
+    second: JabaSpriteSheet_5
+  - first:
+      213: 3940552871924542448
+    second: JabaSpriteSheet_6
+  - first:
+      213: 5003806563240222282
+    second: JabaSpriteSheet_7
+  - first:
+      213: 60279562106563530
+    second: JabaSpriteSheet_8
+  - first:
+      213: -1987519019773979768
+    second: JabaSpriteSheet_9
+  - first:
+      213: 194395793978540016
+    second: JabaSpriteSheet_10
+  - first:
+      213: -7896542443428304341
+    second: JabaSpriteSheet_11
+  - first:
+      213: 4114914529205198752
+    second: JabaSpriteSheet_12
+  - first:
+      213: -1215982631731174786
+    second: JabaSpriteSheet_13
+  - first:
+      213: -7723352319948434904
+    second: JabaSpriteSheet_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JabaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1409
+        width: 284
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecbcad4a3c279530800000000000000
+      internalID: 3861603834416381160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1408
+        width: 291
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795a0c18dcf75c90800000000000000
+      internalID: -7180993075705390727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1207
+        width: 300
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969627e674cffe1e0800000000000000
+      internalID: -2166235512016049815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1207
+        width: 305
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5642d3d81bb25750800000000000000
+      internalID: 6292297344697386589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1006
+        width: 311
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8195d17d5f189a720800000000000000
+      internalID: 2857958331419285784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1006
+        width: 324
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a116d4c206d0190800000000000000
+      internalID: -7994628020119725482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 805
+        width: 333
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb25b585f7afa630800000000000000
+      internalID: 3940552871924542448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 805
+        width: 329
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e93b6de87117540800000000000000
+      internalID: 5003806563240222282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 605
+        width: 326
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbe39e31f726d000800000000000000
+      internalID: 60279562106563530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 604
+        width: 322
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831a0a5bf9ea64e0800000000000000
+      internalID: -1987519019773979768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 403
+        width: 317
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbbe5d1f1a2b200800000000000000
+      internalID: 194395793978540016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 402
+        width: 318
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a29a14c78d96290800000000000000
+      internalID: -7896542443428304341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 201
+        width: 316
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9e5a66fc1b1930800000000000000
+      internalID: 4114914529205198752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 201
+        width: 300
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726e9e2d36ff1fe0800000000000000
+      internalID: -1215982631731174786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JabaSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 284
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822d84e2cf321d490800000000000000
+      internalID: -7723352319948434904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

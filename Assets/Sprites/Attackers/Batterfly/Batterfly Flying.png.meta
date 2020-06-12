@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: dc5fc329a9cdb0b41a2ae7ae6775fab5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 976602574474442408
+    second: Batterfly Flying_0
+  - first:
+      213: -2687813208154699468
+    second: Batterfly Flying_1
+  - first:
+      213: 1090035176433468054
+    second: Batterfly Flying_2
+  - first:
+      213: 4037092446377775149
+    second: Batterfly Flying_3
+  - first:
+      213: 3921667235936062776
+    second: Batterfly Flying_4
+  - first:
+      213: -9030161529008432571
+    second: Batterfly Flying_5
+  - first:
+      213: 8110895110431013462
+    second: Batterfly Flying_6
+  - first:
+      213: 5922975274091023662
+    second: Batterfly Flying_7
+  - first:
+      213: -2311131134115155322
+    second: Batterfly Flying_8
+  - first:
+      213: -1018890160937470177
+    second: Batterfly Flying_9
+  - first:
+      213: -859107380757979402
+    second: Batterfly Flying_10
+  - first:
+      213: 4919222465646754189
+    second: Batterfly Flying_11
+  - first:
+      213: -2579777022600291834
+    second: Batterfly Flying_12
+  - first:
+      213: -61360737986723796
+    second: Batterfly Flying_13
+  - first:
+      213: 4605176844978736347
+    second: Batterfly Flying_14
+  - first:
+      213: 3067039769192572609
+    second: Batterfly Flying_15
+  - first:
+      213: -8394143503995937554
+    second: Batterfly Flying_16
+  - first:
+      213: 9007238996299009657
+    second: Batterfly Flying_17
+  - first:
+      213: 7684197814017342480
+    second: Batterfly Flying_18
+  - first:
+      213: -3310636214124939118
+    second: Batterfly Flying_19
+  - first:
+      213: -8971871485281281411
+    second: Batterfly Flying_20
+  - first:
+      213: -1991845119574025360
+    second: Batterfly Flying_21
+  - first:
+      213: -1445697980419185789
+    second: Batterfly Flying_22
+  - first:
+      213: -667453329367498210
+    second: Batterfly Flying_23
+  - first:
+      213: 4696006618232751499
+    second: Batterfly Flying_24
+  - first:
+      213: -2462897420217202545
+    second: Batterfly Flying_25
+  - first:
+      213: -8346077663590395319
+    second: Batterfly Flying_26
+  - first:
+      213: 6553426522033964487
+    second: Batterfly Flying_27
+  - first:
+      213: 6206140974172599199
+    second: Batterfly Flying_28
+  - first:
+      213: 385902808575954366
+    second: Batterfly Flying_29
+  - first:
+      213: 1980490519098986046
+    second: Batterfly Flying_30
+  - first:
+      213: 9177375492447067288
+    second: Batterfly Flying_31
+  - first:
+      213: 5481676870795897245
+    second: Batterfly Flying_32
+  - first:
+      213: -6791174869118220334
+    second: Batterfly Flying_33
+  - first:
+      213: -3538023687861801148
+    second: Batterfly Flying_34
+  - first:
+      213: 7265658353185053728
+    second: Batterfly Flying_35
+  - first:
+      213: 1496559349611254149
+    second: Batterfly Flying_36
+  - first:
+      213: 53546814854196961
+    second: Batterfly Flying_37
+  - first:
+      213: 7442472155358727808
+    second: Batterfly Flying_38
+  - first:
+      213: -8190173729973596322
+    second: Batterfly Flying_39
+  - first:
+      213: 498653109086934645
+    second: Batterfly Flying_0
+  - first:
+      213: -9175135117002900706
+    second: Batterfly Flying_1
+  - first:
+      213: -1448794259657348877
+    second: Batterfly Flying_2
+  - first:
+      213: 8043200020325461361
+    second: Batterfly Flying_3
+  - first:
+      213: 7891177866060842378
+    second: Batterfly Flying_4
+  - first:
+      213: -6098644869630240284
+    second: Batterfly Flying_5
+  - first:
+      213: 8903249434176396373
+    second: Batterfly Flying_6
+  - first:
+      213: 3228749405868371989
+    second: Batterfly Flying_7
+  - first:
+      213: 6947404653529413719
+    second: Batterfly Flying_8
+  - first:
+      213: 1255070724586106875
+    second: Batterfly Flying_9
+  - first:
+      213: -9039277369633570384
+    second: Batterfly Flying_10
+  - first:
+      213: -597266053432386672
+    second: Batterfly Flying_11
+  - first:
+      213: 3932854497436956975
+    second: Batterfly Flying_12
+  - first:
+      213: -8518722124123184577
+    second: Batterfly Flying_13
+  - first:
+      213: 1312221775035296762
+    second: Batterfly Flying_14
+  - first:
+      213: -8751457181958264345
+    second: Batterfly Flying_15
+  - first:
+      213: -3753389157316768170
+    second: Batterfly Flying_16
+  - first:
+      213: -1849230296070562414
+    second: Batterfly Flying_17
+  - first:
+      213: 8239269729159638809
+    second: Batterfly Flying_18
+  - first:
+      213: -51572290455767478
+    second: Batterfly Flying_19
+  - first:
+      213: 7756316400031857605
+    second: Batterfly Flying_20
+  - first:
+      213: -1136307318318039925
+    second: Batterfly Flying_21
+  - first:
+      213: -8135344513544609210
+    second: Batterfly Flying_22
+  - first:
+      213: 526777101611475499
+    second: Batterfly Flying_23
+  - first:
+      213: -5307418299481349119
+    second: Batterfly Flying_24
+  - first:
+      213: 983627051511998628
+    second: Batterfly Flying_25
+  - first:
+      213: 1197507009952289723
+    second: Batterfly Flying_26
+  - first:
+      213: 1019785982501232885
+    second: Batterfly Flying_27
+  - first:
+      213: 9062394958601033861
+    second: Batterfly Flying_28
+  - first:
+      213: 7875563411260682204
+    second: Batterfly Flying_29
+  - first:
+      213: -1126300065842564381
+    second: Batterfly Flying_30
+  - first:
+      213: -8529759489541600779
+    second: Batterfly Flying_31
+  - first:
+      213: -2798724922004009169
+    second: Batterfly Flying_32
+  - first:
+      213: 6694184288407389006
+    second: Batterfly Flying_33
+  - first:
+      213: -220484881467259647
+    second: Batterfly Flying_34
+  - first:
+      213: 8318665835524815693
+    second: Batterfly Flying_35
+  - first:
+      213: 5018555008338850162
+    second: Batterfly Flying_36
+  - first:
+      213: 4964837638374621772
+    second: Batterfly Flying_37
+  - first:
+      213: -869191764371546516
+    second: Batterfly Flying_38
+  - first:
+      213: -2473441570834153632
+    second: Batterfly Flying_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batterfly Flying_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 416
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57655495c529be600800000000000000
+      internalID: 498653109086934645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 395
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b74d8193f5ba080800000000000000
+      internalID: -9175135117002900706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8af700c49d4ebe0800000000000000
+      internalID: -1448794259657348877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 385
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de9e4cdcf2f9f60800000000000000
+      internalID: 8043200020325461361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 390
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a854bfdb578138d60800000000000000
+      internalID: 7891177866060842378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 399
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e95e669dc24d5ba0800000000000000
+      internalID: -6098644869630240284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 415
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c18ce5032be8b70800000000000000
+      internalID: 8903249434176396373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 414
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510b98d5a72decc20800000000000000
+      internalID: 3228749405868371989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 288
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758348439b32a6060800000000000000
+      internalID: 6947404653529413719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff62f2ac28ea6110800000000000000
+      internalID: 1255070724586106875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 294
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b183ccdf190e8280800000000000000
+      internalID: -9039277369633570384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 303
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b53c850b516b7f0800000000000000
+      internalID: -597266053432386672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f609045e449630800000000000000
+      internalID: 3932854497436956975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_13
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 318
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32606bbc5b67c980800000000000000
+      internalID: -8518722124123184577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 319
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe28f70c2f53210800000000000000
+      internalID: 1312221775035296762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 320
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9265a6f049c8680800000000000000
+      internalID: -8751457181958264345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 198
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec45e927849ebc0800000000000000
+      internalID: -3753389157316768170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dd2d6e7d63656e0800000000000000
+      internalID: -1849230296070562414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f60374a24c75270800000000000000
+      internalID: 8239269729159638809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 222
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46712b6647c84ff0800000000000000
+      internalID: -51572290455767478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 223
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7f6dcba8f3ab60800000000000000
+      internalID: 7756316400031857605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_21
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 224
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cf9ffa3860b30f0800000000000000
+      internalID: -1136307318318039925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_22
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 224
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64220c09443791f80800000000000000
+      internalID: -8135344513544609210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 203
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22ac51abfc7f4700800000000000000
+      internalID: 526777101611475499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a1013d234856b0800000000000000
+      internalID: -5307418299481349119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 126
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a866d4879b86ad00800000000000000
+      internalID: 983627051511998628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb31f38e7466e9010800000000000000
+      internalID: 1197507009952289723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a8e1b2f1072e00800000000000000
+      internalID: 1019785982501232885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 128
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58894b1433814cd70800000000000000
+      internalID: 9062394958601033861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 107
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfa14e223f9b4d60800000000000000
+      internalID: 7875563411260682204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_30
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 96
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e274f8be049e50f0800000000000000
+      internalID: -1126300065842564381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 97
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f90b56dfe430a980800000000000000
+      internalID: -8529759489541600779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 31
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0beff28ee829d0800000000000000
+      internalID: -2798724922004009169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43068b942586ec50800000000000000
+      internalID: 6694184288407389006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ccc12b2ea0fcf0800000000000000
+      internalID: -220484881467259647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 11
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b72a3d086d17370800000000000000
+      internalID: 8318665835524815693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_36
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717bcdc03d75a540800000000000000
+      internalID: 5018555008338850162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_37
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c420fcaf685a6e440800000000000000
+      internalID: 4964837638374621772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 6
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e50fa02b200f3f0800000000000000
+      internalID: -869191764371546516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batterfly Flying_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 15
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ffeb50ff19cadd0800000000000000
+      internalID: -2473441570834153632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

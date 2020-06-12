@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 88678caa81c261840a94b5c81ee75b43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6543279331256932611
+    second: Weird Yellow Thing Walk_0
+  - first:
+      213: 2421249144102511327
+    second: Weird Yellow Thing Walk_1
+  - first:
+      213: 5302776192137820861
+    second: Weird Yellow Thing Walk_2
+  - first:
+      213: -3172153932161576816
+    second: Weird Yellow Thing Walk_3
+  - first:
+      213: 8859501995608984353
+    second: Weird Yellow Thing Walk_4
+  - first:
+      213: 3881870809507179621
+    second: Weird Yellow Thing Walk_5
+  - first:
+      213: 1494491838722616165
+    second: Weird Yellow Thing Walk_6
+  - first:
+      213: 3091572331750832840
+    second: Weird Yellow Thing Walk_7
+  - first:
+      213: 2113557962437228330
+    second: Weird Yellow Thing Walk_8
+  - first:
+      213: -2048814041223763813
+    second: Weird Yellow Thing Walk_9
+  - first:
+      213: 1399260497681663427
+    second: Weird Yellow Thing Walk_10
+  - first:
+      213: 3239180239957050371
+    second: Weird Yellow Thing Walk_11
+  - first:
+      213: -3681544225101722871
+    second: Weird Yellow Thing Walk_12
+  - first:
+      213: -8200236097732297973
+    second: Weird Yellow Thing Walk_13
+  - first:
+      213: 2177537262254937881
+    second: Weird Yellow Thing Walk_14
+  - first:
+      213: 4386517269122361670
+    second: Weird Yellow Thing Walk_15
+  - first:
+      213: 1484760709507799381
+    second: Weird Yellow Thing Walk_16
+  - first:
+      213: 3557656697356172370
+    second: Weird Yellow Thing Walk_17
+  - first:
+      213: 7983038226384201667
+    second: Weird Yellow Thing Walk_18
+  - first:
+      213: -7558021835146563279
+    second: Weird Yellow Thing Walk_19
+  - first:
+      213: -6139195708898392882
+    second: Weird Yellow Thing Walk_20
+  - first:
+      213: 2297163757527666287
+    second: Weird Yellow Thing Walk_21
+  - first:
+      213: 429636009946433045
+    second: Weird Yellow Thing Walk_22
+  - first:
+      213: 20440170807218069
+    second: Weird Yellow Thing Walk_23
+  - first:
+      213: -1562224492053586913
+    second: Weird Yellow Thing Walk_24
+  - first:
+      213: -6287191152872550397
+    second: Weird Yellow Thing Walk_25
+  - first:
+      213: 1751892206709314941
+    second: Weird Yellow Thing Walk_26
+  - first:
+      213: -534932841689778186
+    second: Weird Yellow Thing Walk_27
+  - first:
+      213: 4309722842877300515
+    second: Weird Yellow Thing Walk_28
+  - first:
+      213: 2140798011566399923
+    second: Weird Yellow Thing Walk_29
+  - first:
+      213: 767583011453439537
+    second: Weird Yellow Thing Walk_30
+  - first:
+      213: -9038829653040046900
+    second: Weird Yellow Thing Walk_31
+  - first:
+      213: -936855392873923104
+    second: Weird Yellow Thing Walk_32
+  - first:
+      213: -2544780004207020413
+    second: Weird Yellow Thing Walk_33
+  - first:
+      213: 3342410343393841700
+    second: Weird Yellow Thing Walk_34
+  - first:
+      213: 3396379903743165763
+    second: Weird Yellow Thing Walk_35
+  - first:
+      213: 3532900278498809777
+    second: Weird Yellow Thing Walk_36
+  - first:
+      213: 2433313097425265630
+    second: Weird Yellow Thing Walk_37
+  - first:
+      213: -1429344897509664717
+    second: Weird Yellow Thing Walk_38
+  - first:
+      213: -765753778855861189
+    second: Weird Yellow Thing Walk_39
+  - first:
+      213: 1969960090935857618
+    second: Weird Yellow Thing Walk_40
+  - first:
+      213: 2765912083140988621
+    second: Weird Yellow Thing Walk_41
+  - first:
+      213: 1652286082705816301
+    second: Weird Yellow Thing Walk_42
+  - first:
+      213: -1580574212665786070
+    second: Weird Yellow Thing Walk_43
+  - first:
+      213: 7889934228450184608
+    second: Weird Yellow Thing Walk_44
+  - first:
+      213: 3343581730443523806
+    second: Weird Yellow Thing Walk_45
+  - first:
+      213: 2779538451640829870
+    second: Weird Yellow Thing Walk_46
+  - first:
+      213: 7447905292081999664
+    second: Weird Yellow Thing Walk_47
+  - first:
+      213: -5544688117762256734
+    second: Weird Yellow Thing Walk_48
+  - first:
+      213: 507989828451865218
+    second: Weird Yellow Thing Walk_49
+  - first:
+      213: 8401901296441667174
+    second: Weird Yellow Thing Walk_50
+  - first:
+      213: 6026952290528604930
+    second: Weird Yellow Thing Walk_51
+  - first:
+      213: -443779943201950506
+    second: Weird Yellow Thing Walk_52
+  - first:
+      213: -7207058664422369652
+    second: Weird Yellow Thing Walk_53
+  - first:
+      213: -4875077698130787518
+    second: Weird Yellow Thing Walk_54
+  - first:
+      213: -5081734597585987921
+    second: Weird Yellow Thing Walk_55
+  - first:
+      213: 2408448261551788971
+    second: Weird Yellow Thing Walk_56
+  - first:
+      213: 5004177308174163623
+    second: Weird Yellow Thing Walk_57
+  - first:
+      213: 6661223303348344613
+    second: Weird Yellow Thing Walk_58
+  - first:
+      213: -243586316944166585
+    second: Weird Yellow Thing Walk_59
+  - first:
+      213: 2774854398492627771
+    second: Weird Yellow Thing Walk_60
+  - first:
+      213: -8999572140931922061
+    second: Weird Yellow Thing Walk_61
+  - first:
+      213: -8494676338992222441
+    second: Weird Yellow Thing Walk_62
+  - first:
+      213: 7152024819340447504
+    second: Weird Yellow Thing Walk_63
+  - first:
+      213: -5748982381135673949
+    second: Weird Yellow Thing Walk_64
+  - first:
+      213: -8692603913511039363
+    second: Weird Yellow Thing Walk_65
+  - first:
+      213: 2790346465255676005
+    second: Weird Yellow Thing Walk_66
+  - first:
+      213: 2155549505936878869
+    second: Weird Yellow Thing Walk_67
+  - first:
+      213: -8077471024649104668
+    second: Weird Yellow Thing Walk_68
+  - first:
+      213: 2097563573787910768
+    second: Weird Yellow Thing Walk_69
+  - first:
+      213: 4004616100477106607
+    second: Weird Yellow Thing Walk_70
+  - first:
+      213: 434973822681561736
+    second: Weird Yellow Thing Walk_71
+  - first:
+      213: 4150244536026059906
+    second: Weird Yellow Thing Walk_72
+  - first:
+      213: -7202933935217327894
+    second: Weird Yellow Thing Walk_73
+  - first:
+      213: 114395239771500416
+    second: Weird Yellow Thing Walk_74
+  - first:
+      213: -6995705966343690841
+    second: Weird Yellow Thing Walk_75
+  - first:
+      213: -7833670553530308548
+    second: Weird Yellow Thing Walk_76
+  - first:
+      213: 524492065671955211
+    second: Weird Yellow Thing Walk_77
+  - first:
+      213: -6857806094621755398
+    second: Weird Yellow Thing Walk_78
+  - first:
+      213: -5943127823065059852
+    second: Weird Yellow Thing Walk_79
+  - first:
+      213: 7908167950543956714
+    second: Weird Yellow Thing Walk_80
+  - first:
+      213: -6063691841074733296
+    second: Weird Yellow Thing Walk_81
+  - first:
+      213: -692519562918830849
+    second: Weird Yellow Thing Walk_82
+  - first:
+      213: 8241433725335176976
+    second: Weird Yellow Thing Walk_83
+  - first:
+      213: -687658859762572322
+    second: Weird Yellow Thing Walk_84
+  - first:
+      213: 5096534903303161702
+    second: Weird Yellow Thing Walk_85
+  - first:
+      213: 9216445387563570238
+    second: Weird Yellow Thing Walk_86
+  - first:
+      213: 4233478937822325868
+    second: Weird Yellow Thing Walk_87
+  - first:
+      213: -4423074183345138561
+    second: Weird Yellow Thing Walk_88
+  - first:
+      213: -8616592206423461751
+    second: Weird Yellow Thing Walk_89
+  - first:
+      213: 5400622111715458511
+    second: Weird Yellow Thing Walk_90
+  - first:
+      213: -6571493805084092657
+    second: Weird Yellow Thing Walk_91
+  - first:
+      213: 4989498215133896533
+    second: Weird Yellow Thing Walk_92
+  - first:
+      213: 8025785105702871274
+    second: Weird Yellow Thing Walk_93
+  - first:
+      213: 7671474949484402232
+    second: Weird Yellow Thing Walk_94
+  - first:
+      213: 4924433390406064057
+    second: Weird Yellow Thing Walk_95
+  - first:
+      213: 1523302429712790722
+    second: Weird Yellow Thing Walk_96
+  - first:
+      213: 4073379686262754015
+    second: JelloSpriteSheet_0
+  - first:
+      213: -3917475160050981578
+    second: JelloSpriteSheet_1
+  - first:
+      213: 8515251018376164802
+    second: JelloSpriteSheet_2
+  - first:
+      213: -2858860712162507011
+    second: JelloSpriteSheet_3
+  - first:
+      213: -2176511641684956019
+    second: JelloSpriteSheet_4
+  - first:
+      213: -4563541658626212506
+    second: JelloSpriteSheet_5
+  - first:
+      213: 8340204888228632853
+    second: JelloSpriteSheet_6
+  - first:
+      213: 1666196177374136660
+    second: JelloSpriteSheet_7
+  - first:
+      213: -2065573072769951990
+    second: JelloSpriteSheet_8
+  - first:
+      213: -2140169834581130346
+    second: JelloSpriteSheet_9
+  - first:
+      213: -1611184540433680817
+    second: JelloSpriteSheet_10
+  - first:
+      213: 158236292117559399
+    second: JelloSpriteSheet_11
+  - first:
+      213: 2803247233554999530
+    second: JelloSpriteSheet_12
+  - first:
+      213: 7692265507243400264
+    second: JelloSpriteSheet_13
+  - first:
+      213: 3710096386467033722
+    second: JelloSpriteSheet_14
+  - first:
+      213: -3246613951265911236
+    second: JelloSpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JelloSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 154
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdacbf23e3d878830800000000000000
+      internalID: 4073379686262754015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 154
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635aebcf81552a9c0800000000000000
+      internalID: -3917475160050981578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 153
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5389b7faf3c2670800000000000000
+      internalID: 8515251018376164802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 153
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6cb3544594358d0800000000000000
+      internalID: -2858860712162507011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 152
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8caddb813a7bc1e0800000000000000
+      internalID: -2176511641684956019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 152
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d33e74a0b0ba0c0800000000000000
+      internalID: -4563541658626212506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 153
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51918d4582c5eb370800000000000000
+      internalID: 8340204888228632853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 153
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459cf7e68948f1710800000000000000
+      internalID: 1666196177374136660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075fe3fb3c9553e0800000000000000
+      internalID: -2065573072769951990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69309c2efd69c42e0800000000000000
+      internalID: -2140169834581130346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4679d7623ce3a9e0800000000000000
+      internalID: -1611184540433680817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768fd3eb11b223200800000000000000
+      internalID: 158236292117559399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae864a5b18227e620800000000000000
+      internalID: 2803247233554999530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c9b3539ba60ca60800000000000000
+      internalID: 7692265507243400264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f3dda109ec7330800000000000000
+      internalID: 3710096386467033722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JelloSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec7f700d5b1f2d0800000000000000
+      internalID: -3246613951265911236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1556 @@
+fileFormatVersion: 2
+guid: 79668807121608b4b8bbf673955ab1f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7427533726530077829
+    second: Timeball_0
+  - first:
+      213: -4714707921128832912
+    second: Timeball_1
+  - first:
+      213: -1901073858325641361
+    second: Timeball_2
+  - first:
+      213: 7168372890652393357
+    second: Timeball_3
+  - first:
+      213: -3464695021391961149
+    second: Timeball_4
+  - first:
+      213: 168575166691822263
+    second: Timeball_5
+  - first:
+      213: 3394387218076726237
+    second: Timeball_6
+  - first:
+      213: 6580972125798106071
+    second: Timeball_7
+  - first:
+      213: -7087442680325167023
+    second: Timeball_8
+  - first:
+      213: 5283573863022770865
+    second: Timeball_9
+  - first:
+      213: -3582158626740038336
+    second: Timeball_10
+  - first:
+      213: 686176497917102171
+    second: Timeball_11
+  - first:
+      213: -2707822568599477138
+    second: Timeball_12
+  - first:
+      213: 7147964976355803330
+    second: Timeball_13
+  - first:
+      213: -323781084974685936
+    second: Timeball_14
+  - first:
+      213: -1779519480182736906
+    second: Timeball_15
+  - first:
+      213: -3190522316178149019
+    second: Timeball_16
+  - first:
+      213: -7582799441653664414
+    second: Timeball_17
+  - first:
+      213: -5864790446447177483
+    second: Timeball_18
+  - first:
+      213: -6986482056062463386
+    second: Timeball_19
+  - first:
+      213: 8313446429161827467
+    second: Timeball_20
+  - first:
+      213: 456100561388008280
+    second: Timeball_21
+  - first:
+      213: -4453793552977105565
+    second: Timeball_22
+  - first:
+      213: 9167617447335273608
+    second: Timeball_23
+  - first:
+      213: 4530369801725898126
+    second: Timeball_24
+  - first:
+      213: -8697100494090770074
+    second: Timeball_25
+  - first:
+      213: 3031215419662091536
+    second: Timeball_26
+  - first:
+      213: -5993671821236431840
+    second: Timeball_27
+  - first:
+      213: 1794827192331046090
+    second: Timeball_28
+  - first:
+      213: 2420290595171505193
+    second: Timeball_29
+  - first:
+      213: -5685061368121826261
+    second: Timeball_30
+  - first:
+      213: 5048023034665870160
+    second: Timeball_31
+  - first:
+      213: -3287645468333784965
+    second: Timeball_32
+  - first:
+      213: 3915747485229401495
+    second: Timeball_33
+  - first:
+      213: -8036025523679967329
+    second: Timeball_34
+  - first:
+      213: -5045082321440016054
+    second: Timeball_35
+  - first:
+      213: -1054961325010030127
+    second: Timeball_36
+  - first:
+      213: -5103915116567488726
+    second: Timeball_37
+  - first:
+      213: 1524185995862472292
+    second: Timeball_38
+  - first:
+      213: 3106058891514540199
+    second: Timeball_39
+  - first:
+      213: 925481784101041922
+    second: Timeball_40
+  - first:
+      213: -5626353489153063169
+    second: Timeball_41
+  - first:
+      213: 7428852563552224829
+    second: Timeball_42
+  - first:
+      213: 8327548500350206067
+    second: Timeball_43
+  - first:
+      213: 2731762359170411021
+    second: Timeball_44
+  - first:
+      213: -3510347801096712508
+    second: Timeball_45
+  - first:
+      213: -2584874720863325080
+    second: Timeball_46
+  - first:
+      213: 6750109992917069026
+    second: Timeball_47
+  - first:
+      213: 9127994233727807834
+    second: Timeball_48
+  - first:
+      213: -775366055319190325
+    second: Timeball_49
+  - first:
+      213: -1950969007904930396
+    second: Timeball_50
+  - first:
+      213: -5765924123296470272
+    second: Timeball_51
+  - first:
+      213: -4685388928361440253
+    second: Timeball_52
+  - first:
+      213: -4875471893510623056
+    second: Timeball_53
+  - first:
+      213: 5847505332649780525
+    second: Timeball_54
+  - first:
+      213: -8149675813569977509
+    second: Timeball_55
+  - first:
+      213: 1155542333044430264
+    second: Timeball_56
+  - first:
+      213: 2270058641488966899
+    second: Timeball_57
+  - first:
+      213: 6313953925733119013
+    second: Timeball_58
+  - first:
+      213: 8754361762100691426
+    second: Timeball_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Timeball_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bf0f0bd691ce890800000000000000
+      internalID: -7427533726530077829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704565102ef19eb0800000000000000
+      internalID: -4714707921128832912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6708bee5670e95e0800000000000000
+      internalID: -1901073858325641361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f30e41a2d2b7360800000000000000
+      internalID: 7168372890652393357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32eda1c3eeaefc0800000000000000
+      internalID: -3464695021391961149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4e909836e65200800000000000000
+      internalID: 168575166691822263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f69bc0394b1f20800000000000000
+      internalID: 3394387218076726237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d381fae74f445b50800000000000000
+      internalID: 6580972125798106071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a641ee6854ad90800000000000000
+      internalID: -7087442680325167023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 53
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab2025f66035940800000000000000
+      internalID: 5283573863022770865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0451f0445bd994ec0800000000000000
+      internalID: -3582158626740038336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58029ba3e9c58900800000000000000
+      internalID: 686176497917102171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a7d378b1eb6ad0800000000000000
+      internalID: -2707822568599477138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c00f92464ca23360800000000000000
+      internalID: 7147964976355803330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_14
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e71591d2b18bf0800000000000000
+      internalID: -323781084974685936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f1d80670ed47e0800000000000000
+      internalID: -1779519480182736906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561be388bdcf8b3d0800000000000000
+      internalID: -3190522316178149019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_17
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f33d451c74c690800000000000000
+      internalID: -7582799441653664414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_18
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0596579241c9ea0800000000000000
+      internalID: -5864790446447177483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 44
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66291c206970b0f90800000000000000
+      internalID: -6986482056062463386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c2e651b7b4f5370800000000000000
+      internalID: 8313446429161827467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85373674b05645600800000000000000
+      internalID: 456100561388008280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36defdb5c52f032c0800000000000000
+      internalID: -4453793552977105565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a7190f7be93f70800000000000000
+      internalID: 9167617447335273608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d670de45b1fde30800000000000000
+      internalID: 4530369801725898126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66968d90e21bd4780800000000000000
+      internalID: -8697100494090770074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01545a63d5a011a20800000000000000
+      internalID: 3031215419662091536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0241fe20c3332dca0800000000000000
+      internalID: -5993671821236431840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8a1072d188e810800000000000000
+      internalID: 1794827192331046090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_29
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 35
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9249a6a1979969120800000000000000
+      internalID: 2420290595171505193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246dc27eca9a11b0800000000000000
+      internalID: -5685061368121826261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053af37543e2e0640800000000000000
+      internalID: 5048023034665870160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ca808ddfef52d0800000000000000
+      internalID: -3287645468333784965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954a3f5797875630800000000000000
+      internalID: 3915747485229401495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974517ec5d4a7090800000000000000
+      internalID: -8036025523679967329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49f6ffcb544cf9b0800000000000000
+      internalID: -5045082321440016054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1700ba3460c51f0800000000000000
+      internalID: -1054961325010030127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_37
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279f314e304b29b0800000000000000
+      internalID: -5103915116567488726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f107761ff62510800000000000000
+      internalID: 1524185995862472292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 26
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fa20fa10fa1b20800000000000000
+      internalID: 3106058891514540199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ff6b77c8f7dc00800000000000000
+      internalID: 925481784101041922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68042bf4d2be1b0800000000000000
+      internalID: -5626353489153063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c74bfb06981760800000000000000
+      internalID: 7428852563552224829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_43
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37006356d35619370800000000000000
+      internalID: 8327548500350206067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_44
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa225646b29e520800000000000000
+      internalID: 2731762359170411021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce8e85064db84fc0800000000000000
+      internalID: -3510347801096712508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864fd0af22ea02cd0800000000000000
+      internalID: -2584874720863325080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_47
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece2a266453dad50800000000000000
+      internalID: 6750109992917069026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_48
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51f825b4662dae70800000000000000
+      internalID: 9127994233727807834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 17
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4cdc54ea85d35f0800000000000000
+      internalID: -775366055319190325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c7042604cce4e0800000000000000
+      internalID: -1950969007904930396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bee0d1f825bffa0800000000000000
+      internalID: -5765924123296470272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cd77a08972afeb0800000000000000
+      internalID: -4685388928361440253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f5eae428d65cb0800000000000000
+      internalID: -4875471893510623056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25eace5e13862150800000000000000
+      internalID: 5847505332649780525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a191c60986ee80800000000000000
+      internalID: -8149675813569977509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51a0c21af490010800000000000000
+      internalID: 1155542333044430264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_57
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47141ae4ed08f10800000000000000
+      internalID: 2270058641488966899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524718784abaf9750800000000000000
+      internalID: 6313953925733119013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timeball_59
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 8
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14649d3adbd7970800000000000000
+      internalID: 8754361762100691426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

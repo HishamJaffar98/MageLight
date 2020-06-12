@@ -1,0 +1,1466 @@
+fileFormatVersion: 2
+guid: 588bcdbc57684d84d8ff6077d7d66f27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6501094492753294699
+    second: Magicball_0
+  - first:
+      213: 8486144511278351088
+    second: Magicball_1
+  - first:
+      213: 8010605128051899592
+    second: Magicball_2
+  - first:
+      213: 19366378580524484
+    second: Magicball_3
+  - first:
+      213: 782793298671822274
+    second: Magicball_4
+  - first:
+      213: 3128271913783725866
+    second: Magicball_5
+  - first:
+      213: -8808264224064202323
+    second: Magicball_6
+  - first:
+      213: 1208476234638795766
+    second: Magicball_7
+  - first:
+      213: -2013097571984894610
+    second: Magicball_8
+  - first:
+      213: -6270199585222204376
+    second: Magicball_9
+  - first:
+      213: -8571915111501925134
+    second: Magicball_10
+  - first:
+      213: -5375235235005792264
+    second: Magicball_11
+  - first:
+      213: 958904219239998288
+    second: Magicball_12
+  - first:
+      213: 1492322750325661009
+    second: Magicball_13
+  - first:
+      213: 8828661466677115894
+    second: Magicball_14
+  - first:
+      213: 4486184243314261783
+    second: Magicball_15
+  - first:
+      213: 1437198655453106080
+    second: Magicball_16
+  - first:
+      213: -5326307561746003256
+    second: Magicball_17
+  - first:
+      213: 2681147809955116142
+    second: Magicball_18
+  - first:
+      213: 1909112192993750497
+    second: Magicball_19
+  - first:
+      213: -3984781019584681713
+    second: Magicball_20
+  - first:
+      213: -3214887402538661827
+    second: Magicball_21
+  - first:
+      213: 6680523547414602915
+    second: Magicball_22
+  - first:
+      213: -2718465316102323924
+    second: Magicball_23
+  - first:
+      213: 1104048871798615230
+    second: Magicball_24
+  - first:
+      213: 2117884029186010046
+    second: Magicball_25
+  - first:
+      213: -3033147261186730908
+    second: Magicball_26
+  - first:
+      213: 5265641526352465931
+    second: Magicball_27
+  - first:
+      213: 6367009130285569392
+    second: Magicball_28
+  - first:
+      213: -4639072599239714007
+    second: Magicball_29
+  - first:
+      213: 555066180217112957
+    second: Magicball_30
+  - first:
+      213: 2584365736292355198
+    second: Magicball_31
+  - first:
+      213: -6213362995048320229
+    second: Magicball_32
+  - first:
+      213: 5663669323114255144
+    second: Magicball_33
+  - first:
+      213: -29411987324761052
+    second: Magicball_34
+  - first:
+      213: 2733066135522688200
+    second: Magicball_35
+  - first:
+      213: 612427185844544437
+    second: Magicball_36
+  - first:
+      213: 6484586309145009514
+    second: Magicball_37
+  - first:
+      213: 4818721757064972435
+    second: Magicball_38
+  - first:
+      213: -5986676803867947438
+    second: Magicball_39
+  - first:
+      213: -765236893914829694
+    second: Magicball_40
+  - first:
+      213: 1828906668524488535
+    second: Magicball_41
+  - first:
+      213: -6716512141605145199
+    second: Magicball_42
+  - first:
+      213: 4636124365905235957
+    second: Magicball_43
+  - first:
+      213: -6093891016571009008
+    second: Magicball_44
+  - first:
+      213: 7414726833536771715
+    second: Magicball_45
+  - first:
+      213: -2739877890411945310
+    second: Magicball_46
+  - first:
+      213: -9214926969631888978
+    second: Magicball_47
+  - first:
+      213: -3194230799107182507
+    second: Magicball_48
+  - first:
+      213: -8376409428898159410
+    second: Magicball_49
+  - first:
+      213: -799276701079851456
+    second: Magicball_50
+  - first:
+      213: -880424686960556753
+    second: Magicball_51
+  - first:
+      213: 1308798875450662811
+    second: Magicball_52
+  - first:
+      213: -7702571650531535008
+    second: Magicball_53
+  - first:
+      213: -5909533378670005725
+    second: Magicball_54
+  - first:
+      213: 489284022670433774
+    second: Magicball_55
+  - first:
+      213: -2521487242005776920
+    second: Magicball_56
+  - first:
+      213: 4589549220294928249
+    second: Magicball_57
+  - first:
+      213: 6033271448647781379
+    second: Magicball_58
+  - first:
+      213: 5753886588567508069
+    second: Magicball_59
+  - first:
+      213: -3190100530895382061
+    second: Magicball_60
+  - first:
+      213: 8531541134309796597
+    second: Magicball_61
+  - first:
+      213: -2119437729705682880
+    second: Magicball_62
+  - first:
+      213: -4221739332199277418
+    second: Magicball_63
+  - first:
+      213: -3887137526289141783
+    second: Magicball_64
+  - first:
+      213: 4035610620713185123
+    second: Magicball_65
+  - first:
+      213: -3225862388186463632
+    second: Magicball_66
+  - first:
+      213: -327884273644796417
+    second: Magicball_67
+  - first:
+      213: -7277768780674537281
+    second: Magicball_68
+  - first:
+      213: -4114336264852601542
+    second: Magicball_69
+  - first:
+      213: -1297983894155733754
+    second: Magicball_70
+  - first:
+      213: 8856180575866373739
+    second: Magicball_71
+  - first:
+      213: 4200709781187640162
+    second: Magicball_72
+  - first:
+      213: 8462239864055818159
+    second: Magicball_73
+  - first:
+      213: -7256200898798287651
+    second: Magicball_74
+  - first:
+      213: -1710881399990536671
+    second: Magicball_75
+  - first:
+      213: 1758798119312291696
+    second: Magicball_76
+  - first:
+      213: 1716604117473978852
+    second: Magicball_77
+  - first:
+      213: 5503343657259011578
+    second: Magicball_78
+  - first:
+      213: 133325498155538477
+    second: Magicball_79
+  - first:
+      213: -3230539298968622816
+    second: Magicball_80
+  - first:
+      213: -8106661904944512408
+    second: Magicball_81
+  - first:
+      213: -7318369891807211372
+    second: Magicball_82
+  - first:
+      213: 3572825292454711209
+    second: Magicball_83
+  - first:
+      213: 1950626213469350394
+    second: Magicball_84
+  - first:
+      213: -8118609514147113256
+    second: Magicball_85
+  - first:
+      213: -4364243518362935537
+    second: Magicball_86
+  - first:
+      213: -8202262062764588381
+    second: Magicball_87
+  - first:
+      213: 6214786030536566909
+    second: Magicball_88
+  - first:
+      213: 6276503771393143246
+    second: Magicball_89
+  - first:
+      213: -8164310921128511183
+    second: Magicball_90
+  - first:
+      213: 8153549686877196165
+    second: Magicball_91
+  - first:
+      213: 5325898282685385465
+    second: Magicball_92
+  - first:
+      213: 6495720659576736153
+    second: Magicball_93
+  - first:
+      213: 730921041660785459
+    second: Magicball_94
+  - first:
+      213: -1399215469498652275
+    second: Magicball_95
+  - first:
+      213: 8318634363037058084
+    second: Magicball_96
+  - first:
+      213: -5838224388130952766
+    second: Magicball_97
+  - first:
+      213: 3480723190034989336
+    second: Magicball_98
+  - first:
+      213: -37093759913435000
+    second: Magicball_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magicball_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a013cc00977c5a0800000000000000
+      internalID: -6501094492753294699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28063b877d4c570800000000000000
+      internalID: 8486144511278351088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb4750ce26b2f60800000000000000
+      internalID: 8010605128051899592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb0e36e9dc44000800000000000000
+      internalID: 19366378580524484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e3e39b5a0dda00800000000000000
+      internalID: 782793298671822274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f09e53bbad96b20800000000000000
+      internalID: 3128271913783725866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da91fdc3b52c2c580800000000000000
+      internalID: -8808264224064202323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3a52d8bbe55c010800000000000000
+      internalID: 1208476234638795766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6593a39c6a0014e0800000000000000
+      internalID: -2013097571984894610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 44
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824670cb2b6cbf8a0800000000000000
+      internalID: -6270199585222204376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ff1e3f907a0980800000000000000
+      internalID: -8571915111501925134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff05178045765b0800000000000000
+      internalID: -5375235235005792264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0536c619e46be4d00800000000000000
+      internalID: 958904219239998288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d156f72abc5b410800000000000000
+      internalID: 1492322750325661009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbf773e3d4b58a70800000000000000
+      internalID: 8828661466677115894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f73bbecc0224e30800000000000000
+      internalID: 4486184243314261783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af83f10094f1f310800000000000000
+      internalID: 1437198655453106080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca07a91e772516b0800000000000000
+      internalID: -5326307561746003256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f0b25ab9553520800000000000000
+      internalID: 2681147809955116142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 35
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed62c3bc678e7a10800000000000000
+      internalID: 1909112192993750497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09afe366c633b8c0800000000000000
+      internalID: -3984781019584681713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380ecac0fc6263d0800000000000000
+      internalID: -3214887402538661827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a74d75ccf5bc50800000000000000
+      internalID: 6680523547414602915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c214083b232164ad0800000000000000
+      internalID: -2718465316102323924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc2a32799e525f00800000000000000
+      internalID: 1104048871798615230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbea13bd4c346d10800000000000000
+      internalID: 2117884029186010046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641481e2a818e5d0800000000000000
+      internalID: -3033147261186730908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d8c4d111531940800000000000000
+      internalID: 5265641526352465931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751754f1192c5850800000000000000
+      internalID: 6367009130285569392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 26
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9113cc04be9fb0800000000000000
+      internalID: -4639072599239714007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798ca200cdf3b700800000000000000
+      internalID: 555066180217112957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c8561d1f28dd320800000000000000
+      internalID: 2584365736292355198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13769b9643b5c9a0800000000000000
+      internalID: -6213362995048320229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239081fd35699e40800000000000000
+      internalID: 5663669323114255144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8e5f04f1879ff0800000000000000
+      internalID: -29411987324761052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccba7b7b2dcde520800000000000000
+      internalID: 2733066135522688200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36e0fd747cf7800800000000000000
+      internalID: 612427185844544437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d13ff24e0edf950800000000000000
+      internalID: 6484586309145009514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398cd4948e98fd240800000000000000
+      internalID: 4818721757064972435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 17
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e41686a2d0beca0800000000000000
+      internalID: -5986676803867947438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cee2179155165f0800000000000000
+      internalID: -765236893914829694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ceb0dce4916910800000000000000
+      internalID: 1828906668524488535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f606fac72ac2a0800000000000000
+      internalID: -6716512141605145199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff805c2c82d65040800000000000000
+      internalID: 4636124365905235957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_44
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018475148662e6ba0800000000000000
+      internalID: -6093891016571009008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_45
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386248b25c666e660800000000000000
+      internalID: 7414726833536771715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ac0e339ff9f9d0800000000000000
+      internalID: -2739877890411945310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_47
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9acef6eb00e1080800000000000000
+      internalID: -9214926969631888978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ba901300dba3d0800000000000000
+      internalID: -3194230799107182507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magicball_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ea49210401cb80800000000000000
+      internalID: -8376409428898159410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
