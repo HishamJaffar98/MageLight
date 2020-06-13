@@ -19,7 +19,7 @@ This consists of the all the entities used to make the game. These entities (ass
 2. [Audio](Assets/Audio)
 3. [Fonts](Assets/Fonts)
 4. [Images](Assets/Images)
-5. [Materials](Assets/Material)
+5. [Materials](Assets/Materials)
 6. [Prefabs](Assets/Prefabs)
 7. [Scenes](Assets/Scenes)
 8. [Scripts](Assets/Scripts)
@@ -51,7 +51,7 @@ To run the game using the WebGL build :-
 # Instructions and Controls
 ***
 - Chose an arsenal of wizards to deploy on to the playing field using the defender bar at the bottom of your screen.
-- 'Mouse over' different wizards within the defender bar to figure out their details such as:-
+- `Mouse over` different wizards within the defender bar to figure out their details such as:-
 
    - **Cost to deploy**
    - **Health**
