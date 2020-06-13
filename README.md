@@ -50,8 +50,8 @@ To run the game using the WebGL build :-
 
 # Instructions and Controls
 ***
-- Chose an arsenal of wizards to deploy on to the playing field using the allies bar at the bottom of your screen.
-- 'Mouse over' different wizards within the allies bar to figure out their details such as:-
+- Chose an arsenal of wizards to deploy on to the playing field using the defender bar at the bottom of your screen.
+- 'Mouse over' different wizards within the defender bar to figure out their details such as:-
 
    - **Cost to deploy**
    - **Health**
@@ -60,7 +60,7 @@ To run the game using the WebGL build :-
 
 ## Controls
 - Use the `Mouse` to navigate through UI menus (*Start Menu, Pause Menu, Options Menu, Enemy Details Viewing Section (**Also known as Beasts of MageLight**) and Game Over Screen*)
-- Use `Mouse over` to hover over the different wizard types in your allies bar before dropping them to view their details.
+- Use `Mouse over` to hover over the different wizard types in your defender bar before dropping them to view their details.
 - Use `Left Mouse Click` to select which wizard to deploy.
 - Use `Left Mouse Click` on the playing field to deploy selected wizard. 
 - Use `Escape` to toggle the Pause Menu.
