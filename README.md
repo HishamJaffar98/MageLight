@@ -1,6 +1,6 @@
 # MageLight
 ***
-A strategic lane defense game where you battle against different elemental beasts. Built using C# for Unity and animated using Unity's 2D Skeletal and Keyframe animation
+A strategic lane defense game where you battle against different elemental beasts. Built using C# for Unity and animated using Unity's 2D Skeletal and Keyframe animation systems.
 
 # Project Structure
 ***
